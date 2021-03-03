@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
-![Hello!](githubFront.gif)
+![:eyes:](githubFront.gif)
 
 <!--
 **jacob-zietek/jacob-zietek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
