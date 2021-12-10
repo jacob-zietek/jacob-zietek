@@ -6,4 +6,6 @@
 
 ---
 
-I like computer autonomy, and also python
+I like computer autonomy
+
+I work on TensorFlow stuff, and also robotics stuff
