@@ -6,8 +6,8 @@
 
 ---
 
-I like computer autonomy
+I like AI
 
-I work on TensorFlow stuff, and also robotics stuff
+I'm currently working on TensorFlow and robotics related projects
 
-Looking for an internship, please email me to look at my private repositories 😄
+Please email me to look at my private repositories 😄
