@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm an undergraduate Computer Science major @ Purdue University. My main interests are in applications using Robotics and NLP. I'm more generally interested in any AI R&D.
+I'm an undergraduate Computer Science major @ Purdue University. My main interests are in applications using Robotics, RL, and NLP. I'm more generally interested in any AI R&D.
 
 The most up to date descriptions of my work can be found on my [website](https://jacobzietek.me/) or my [LinkedIn](https://www.linkedin.com/in/jacob-zietek/).
 
