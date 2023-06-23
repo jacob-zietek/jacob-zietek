@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm an undergraduate Computer Science major @ Purdue University. My main interests are in applications using Robotics, RL, and NLP. I'm more generally interested in any AI R&D.
+Senior in CS @ Purdue University. I’m passionate about integrating AI into our daily lives. Specializing in Robotics, CV, RL, and NLP, with a focus on collaborative decision-making between autonomous systems and humans.
 
 The most up to date descriptions of my work can be found on my [website](https://jacobzietek.me/) or my [LinkedIn](https://www.linkedin.com/in/jacob-zietek/).
 
