@@ -7,6 +7,7 @@ The most up to date descriptions of my work can be found on my [website](https:/
 I am currently an undergraduate researcher at CoRAL Laboratory and AKRaNLU Laboratory at Purdue University.
 
 I'm currently working on
+- Stealth Startup: Super secret AI stuff part-time
 - CoRAL Laboratory: Interacting with robots through natural language
 - AKRaNLU Laboratory: Task-oriented multimodal conversational agents for the [Alexa Prize TaskBot Challenge 2](https://www.amazon.science/alexa-prize/taskbot-challenge/ten-university-teams-selected-for-alexa-prize-taskbot-challenge-2)
 
