@@ -12,6 +12,6 @@ Currently an AI Engineer @ [Armada](https://www.armada.ai/)
 
 I'm currently working on
 - Armada: Video VQA
-- Independent research: Correcting user mistakes for robotics applications
+- Independent research: Correcting user language commands via other modalities for robotics applications
 
 Please email me to look at my private repositories 😄 jzietek:zap:purdue.edu
