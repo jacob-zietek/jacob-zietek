@@ -1,10 +1,10 @@
-# Hello there 👋
+# 👋
 
 ![:eyes:](githubFront.gif)
 
 ---
 
-The most up to date descriptions of my work can be found on my [website](https://jacobzietek.me/) or my [LinkedIn](https://www.linkedin.com/in/jacob-zietek/).
+The most up to date descriptions of my work can be found on my [website](https://zietek.dev/) or my [LinkedIn](https://www.linkedin.com/in/jacob-zietek/).
 
 AI Engineer @ [Armada](https://www.armada.ai/)
 
